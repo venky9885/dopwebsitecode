@@ -1,0 +1,1399 @@
+<html lang="en"><head>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="scripts/common/Ncalendar1.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="scripts/common/NFEBAScripts.js?moduleId=accounts,scriptsPath=scripts,isVdtMode=false,nodePath=,ipAddress=172.16.21.57,contextPath="></script><script type="text/JavaScript" src="scripts/common/NFEBAFunctionLoader.js"></script><script type="text/JavaScript" src="scripts/common/Ncooltree.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/jquerymin.js"></script><script type="text/javascript" src="scripts/ria/ajaxfeatures/jquery-migrate121.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/jquery.class.js"></script><script type="text/JavaScript" src="scripts/common/NFEBAJavaScripts.js"></script><script type="text/JavaScript" src="scripts/common/NHWMails.js"></script><script type="text/JavaScript" src="scripts/common/Ntree1_format.js"></script><script type="text/JavaScript" src="scripts/common/Ncommon.js"></script><script type="text/JavaScript" src="scripts/common/Nencrypt.js"></script><script type="text/JavaScript" src="scripts/common/Njson2.js"></script><script type="text/JavaScript" src="scripts/common/Ndsprocessor.js"></script><script type="text/JavaScript" src="scripts/common/NMap.js"></script><script type="text/JavaScript" src="scripts/common/Nmessages.js"></script><script type="text/JavaScript" src="scripts/common/NmessageFunctions.js"></script><script type="text/JavaScript" src="scripts/common/NcommonFunctions.js"></script><script type="text/JavaScript" src="scripts/common/Nxregexp.js"></script><script type="text/JavaScript" src="scripts/common/Nxregexp-unicode.js"></script><script type="text/JavaScript" src="scripts/common/NtypeDefinitionVal.js"></script><script type="text/JavaScript" src="scripts/common/NtypeSysValidation.js"></script><script type="text/JavaScript" src="scripts/common/NcookieScript.js"></script><script type="text/JavaScript" src="scripts/common/NgroupletActionHandler.js"></script><script type="text/JavaScript" src="scripts/common/NpageCustom.js"></script><script type="text/JavaScript" src="scripts/common/Ntaglibs.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/NFEBAAjaxObjects.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/NFEBAWidgets.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/Noverlib_mini.js"></script><script type="text/JavaScript" src="scripts/ria/visualeffects/NFEBAVisualEffects.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/jquery-ui-custommin.js"></script><script type="text/JavaScript" src="scripts/common/Noptions.js"></script><script type="text/JavaScript" src="scripts/common/NEBGCD.js"></script><script type="text/JavaScript" src="scripts/common/NCxpsGDHelper.js"></script><script type="text/javascript" src="scripts/json.js"></script><script type="text/JavaScript" src="scripts/common/NCxpsCallFunctionsResponse.js"></script><script type="text/JavaScript" src="scripts/common/NListingDetails.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/jquery.simplemodal-1.4.1.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/jquery.autocomplete.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/jquery.qtip.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/richTextEditor.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/jquery.blockUI.js"></script><script type="text/JavaScript" src="scripts/common/NAnalyticsEngine.js"></script><script type="text/JavaScript" src="scripts/ria/visualeffects/NFEBAAccordion.js"></script><script type="text/JavaScript" src="scripts/common/Njquery-jcryption.js"></script><script type="text/JavaScript" src="scripts/ria/visualeffects/NFEBATabs.js"></script><script type="text/JavaScript" src="scripts/ria/visualeffects/NFEBATooltip.js"></script><script type="text/JavaScript" src="scripts/ria/visualeffects/NFEBACalendar.js"></script><script type="text/JavaScript" src="scripts/common/Nmashup.js"></script><script type="text/JavaScript" src="scripts/ria/ajaxfeatures/jquery.jcarousel.js"></script><script type="text/JavaScript" src="scripts/common/NFEBAJSConfiguration.js"></script><script type="text/JavaScript" src="scripts/adaptiveauthentication/adaptivecommon.js"></script><script type="text/JavaScript" src="scripts/adaptiveauthentication/arcot/ArcotDeviceDNA.js"></script><script type="text/JavaScript" src="scripts/adaptiveauthentication/arcot/deployJava.js"></script><script type="text/JavaScript" src="scripts/adaptiveauthentication/arcot/FlashDetect.js"></script><script type="text/JavaScript" src="scripts/adaptiveauthentication/arcot/arcot_json.js"></script><script type="text/JavaScript" src="scripts/adaptiveauthentication/arcot/PluginDetect.js"></script><script type="text/JavaScript" src="scripts/adaptiveauthentication/arcot/rfutil.js"></script><script type="text/JavaScript" src="scripts/adaptiveauthentication/arcot/swfobject.js"></script><script type="text/JavaScript" src="scripts/adaptiveauthentication/arcot.js"></script><script type="text/JavaScript" src="scripts/common/Ninteractivity.js"></script><script type="text/JavaScript" src="scripts/common/WorkOffline.js"></script>
+
+<script type="text/javascript">jQuery.noConflict();</script>
+
+	
+
+		
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+setTreeFormt(4);
+
+</script>
+
+
+
+
+
+
+
+
+
+<link href=" L001/bankuser/theme/new_style.css?mtime=0" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<link href="L001/bankuser/theme/jquery-ui.custom.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+</head><body oncontextmenu="return false;"><div id="flashcontent">
+
+</div>
+
+
+<title>Department of Post Agent Login : Recurring Deposit Installment Report</title>
+
+<script type="text/javascript">var langID="001"
+var locale="en_US"
+</script><form name="CustomAgentRDAccountFG" action="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=g2Jf0Dy7LoyqRTyMwr3C5TEWSdgWc5cIltm5lRX1ILc%3D" method="post" autocomplete="off" id="outerTab" style="font-size: 1em;"><script type="text/javascript">function actionset(){if(document.CustomAgentRDAccountFG.ACTIONSWITCH== "Y"){document.CustomAgentRDAccountFG.ACTIONSWITCH= "N"}else{document.CustomAgentRDAccountFG.action= "";document.CustomAgentRDAccountFG.action= "";}}</script>
+
+
+
+
+	
+
+<script type="text/javascript"> jQuery.noConflict();</script>
+
+<!--<script language="JavaScript" src="https://www.images-home.com/image.js?mtime=0" ></script>
+-->
+
+
+<div id="global" class="body-style-02">
+
+
+
+
+
+	<p id="topline"></p>
+	<div id="header" class="header_big_bg">
+
+ 
+
+
+
+
+<script type="text/javascript">
+function showDate()
+{
+	var now = new Date();
+	var days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+	var months = new Array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+	var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+	function fourdigits(number)
+	{
+		return (number < 1000) ? number + 1900 : number;
+	}
+	
+	tnow=new Date();
+	thour=now.getHours();
+	tmin=now.getMinutes();
+	tsec=now.getSeconds();
+	
+	if (tmin<=9) { tmin="0"+tmin; }
+	if (tsec<=9) { tsec="0"+tsec; }
+	if (thour<10) { thour="0"+thour; }
+	
+	today = days[now.getDay()] + ", " + date + " " + months[now.getMonth()] + ", " + (fourdigits(now.getYear())) + " - " + thour + ":" + tmin +":"+ tsec;
+	
+	today = date + " " + months[now.getMonth()] + " " + (fourdigits(now.getYear())) + ", " + thour + ":" + tmin +":"+ tsec + " " + "IST";
+	document.getElementById("dateDiv").innerHTML = today;
+}
+setInterval("showDate()", 1000);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+<div id="logo" role="banner">&nbsp;</div>
+<div id="header-content">
+<div id="bottomheaderborder" class="bottomheaderborder">
+<div id="leftheaderborder" class="leftheaderborder">
+<div id="bottomleftcorner" class="bottomleftcorner listingcol">
+<div class="width25percent" id="">
+	
+		
+			
+								
+					
+						
+							
+							
+								
+									
+									
+								
+							
+							
+							
+						
+					
+				<p id="messagerow">
+<span id="message"><span class="corpheaderwishing" id="welcome">Welcome  </span><span class="corpheaderwishing" id="salutation">Mr/Ms.</span><span class="corpheaderwishing" id="firstName">B S PADMAVATHI </span><span class="corpheaderwishing" id="lastName">R.S.PADMAVATHI</span></span></p>
+
+			
+		
+	
+</div>
+ 
+<div id="" class="width25percent">
+		<div id="header-main" class="header-main-new">
+			<div id="header-wrapper" class="wrapper_login">
+		        <div id="topbar-row" style="height:34px;">			        				
+	        		<div style="float: left; margin-left:5%;">	
+	        			<img src="L001/consumer/images/custom/clock-icon.gif">
+	        		</div>
+	        		<div style="float: left; margin-top: 7px; ">		        								        				
+		        		<span style="font-size: 9px; color: Red; font-weight: bold; font-family: verdana;">Date &amp; Time: </span>
+		        		<span style="font-size: 10px; color: Black; font-weight: bold; font-family: verdana;" id="dateDiv">30 Apr 2021, 17:58:34 IST</span>
+		        	</div>			        				
+	        		<ul class="tabs">	
+	        		</ul>
+       			</div>				
+			</div>
+		</div>
+	</div>
+<div class="width43percent_right" id="">
+	
+		
+			
+				
+					
+						
+							
+							
+							
+							
+							
+							
+							
+						
+							
+							
+						
+									
+							
+							
+							
+						
+					
+				<p id="">
+<span id="headerlinks"><span class="skiplink" id="span_Skip to content" title="Skip to Content"><a <a="" href="#skiptomaincontent" title="Skip to Content" id="Skip to content" name="HREF_Skip" class="headerwhitelink">Skip to Content</a></span><span class="headerwhitelink" id="separator1">|</span><span class="FAQlink" id="span_FAQ" title="FAQs "><a <a="" href="#" title="FAQs " id="FAQ" name="HREF_FAQ" class="headerwhitelink">FAQs </a></span><span class="headerwhitelink" id="separator2">|</span><span class="null" id="span_Site map" title="Sitemap"><a <a="" href="#" title="Sitemap" id="Site map" name="HREF_Site" class="headerwhitelink">Sitemap</a></span><span class="headerwhitelink" id="separator3">|</span><span class="contactlink" id="span_Contact Us" title="Contact Us"><a <a="" href="#" title="Contact Us" id="Contact Us" name="HREF_Contact" class="headerwhitelink">Contact Us</a></span><span class="headerwhitelink" id="separator4">|</span><span class="logoutlink" id="span_HREF_Logout" title="logout"><a <a="" href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=ns3hfplWIzeLgUlzwZ0SQY0E3SQKCzq%2B%2B0GuBwDc00uGYFQ1yHtEwHIQT63P4LwpYs3DH%2FK4U2fWU5qygBd2AwP3GqIPEOmkS1bGhSQCit1PXyV1cBmlT9XzPfI%2FilbL" title="logout" id="HREF_Logout" name="HREF_HREF_Logout" class="headerwhitelink">logout</a></span><img src="L001/consumer/images/custom/logout_icon.gif?mtime=1503037402000" id="normalImage" border="0"></span></p>
+
+			
+		
+	
+</div>
+ 
+</div></div></div>
+
+	
+		
+			
+			
+			
+			
+			
+		
+	
+	
+		
+			
+				
+					
+				
+			
+			
+			
+			
+				
+					
+					
+					
+					
+					
+					
+					
+					
+				
+			
+			
+				
+					
+				
+			
+			
+			
+			
+			
+			
+			
+		
+	
+<p id="secondrow" class="listingcol">
+<span id="section63.row46.C1" class="headerinfo-left"><span class="simpletext left" id="lastlogintime">Last log in time:</span><span class="width50percent_left simpletext" id="lastLogin">30-Apr-2021 05:51:05 PM IST</span></span><span id="" class="headerinfo-right"><span><span class="simpletext" style="color:red;" id="expiryMsg">Your session will timeout in <label id="sessionExpiryTime">0 hrs: 5 mins</label></span><br></span><input type="Submit" name="Action.Action.Action.PREVENT_SESSION_TIMEOUT__" class="thirdrowbutton formbtn_text1" id="PREVENT_SESSION_TIMEOUT__" value="Prevent Session Timeout" title="Prevent Session Timeout"><span class="thirdrowbutton simpletext" id="skin">    Skin:  </span><span class="labelColumn_combo"><span class="labelColumn_combo_brdr"> <select name="CustomAgentRDAccountFG._SKIN_CHANGE_" class="left dropdownexpandalbe" id="CustomAgentRDAccountFG._SKIN_CHANGE_"> <option selected="" value="SKIN1">Skin1</option></select></span></span><input type="Submit" name="Action.Action._SKIN_CHANGE_EVENT_" class="thirdrowgobtn headergobtn" id="SKIN_CHANGE_EVENT_" value="»" title="Change to selected skin"><span class="simpletext">&nbsp;&nbsp;&nbsp;</span><img src="L001/bankuser/images/header-small-texticon.gif?mtime=1503037380000" alt="Click to alter display to a normal font size" title="Click to alter display to a normal font size" id="normalImage" border="0" onclick="javascript:fontResize('normal')"><span class="simpletext">&nbsp;</span><img src="L001/bankuser/images/header-medium-texticon.gif?mtime=1503037380000" alt="Click to alter display to a medium font size" title="Click to alter display to a medium font size" id="largeImage" border="0" onclick="javascript:fontResize('large')"><span class="simpletext">&nbsp;</span><img src="L001/bankuser/images/header-large-texticon.gif?mtime=1503037380000" alt="Click to alter display to a large font size" title="Click to alter display to a large font size" id="largestImage" border="0" onclick="javascript:fontResize('largest')"></span></p>
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<input type="Hidden" name="sessionTimeout" value="300" id="sessionTimeout"> 
+<input type="Hidden" name="sessionAlertTime" value="60" id="sessionAlertTime">
+<input type="Hidden" name="sessionImgPath" value="L001/bankuser/images/loginbtn1.jpg" id="sessionImgPath">
+<input type="Hidden" name="sessionLoginURL" value="AuthenticationController?__START_TRAN_FLAG__=Y&amp;FORMSGROUP_ID__=AuthenticationFG&amp;__EVENT_ID__=LOAD&amp;FG_BUTTONS__=LOAD&amp;ACTION.LOAD=Y&amp;AuthenticationFG.LOGIN_FLAG=3&amp;BANK_ID=DOP&amp;LANGUAGE_ID=001" id="sessionLoginURL">
+<script language="javascript" type="text/javascript">
+sessionTimer("bankuser/theme/new_style.css?mtime=0", "L001/bankuser/theme/new_style.css?mtime=0",4);
+</script>
+
+
+
+<div id="topbar" role="navigation"><p> <span id="topbartableft">&nbsp;</span><span id="topbartabtext"><a href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=ns3hfplWIzeLgUlzwZ0SQY0E3SQKCzq%2B%2B0GuBwDc00v1oKDPn%2BMedVRJJdY7IDZ4zoXB5gEnVeXXtUtKKw1grMqbsvCxHnfYSO6papOL9lMGkjqBh5w046FMNRjpXbSw%0D%0Au15G5jXnWZDVy%2FTGHTs1m%2FXo3YLXHyedzDTyAa6ZDdYBS2R0%2FX%2BlQGGgLxK1zAxtg2Jf0Dy7LoyqRTyMwr3C5TEWSdgWc5cIltm5lRX1ILc%3D" id="Dashboard" name="HREF_Dashboard">Dashboard</a></span><span id="topbartabright">&nbsp;</span> <span id="topbartableft">&nbsp;</span><span id="topbartabtext"><a href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=ns3hfplWIzeLgUlzwZ0SQY0E3SQKCzq%2B%2B0GuBwDc00v1oKDPn%2BMedVRJJdY7IDZ4zoXB5gEnVeXXtUtKKw1grMqbsvCxHnfYSO6papOL9lMGkjqBh5w046FMNRjpXbSw%0D%0Au15G5jXnWZDVy%2FTGHTs1m3YcTEk94YC1owQaBA2kmgDkNAP3BWhXrgWam2vXfrK%2FrZQwAb5LH%2BQG6ULdEgO%2Bxn0X%2FCh3Ij2PFW2%2FluYVOow%3D" id="Change Password" name="HREF_Change Password">Change Password</a></span><span id="topbartabright">&nbsp;</span> <span id="topbartableft">&nbsp;</span><span id="topbartabtext"><a href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=ns3hfplWIzeLgUlzwZ0SQY0E3SQKCzq%2B%2B0GuBwDc00v1oKDPn%2BMedVRJJdY7IDZ4zoXB5gEnVeXXtUtKKw1grMqbsvCxHnfYSO6papOL9lMGkjqBh5w046FMNRjpXbSw%0D%0Au15G5jXnWZDVy%2FTGHTs1mzsSlFZjZQAM44n2s00bDhwZ9M%2FY7VzDQSOTLg3bAdturZQwAb5LH%2BQG6ULdEgO%2Bxn0X%2FCh3Ij2PFW2%2FluYVOow%3D" id="Accounts" name="HREF_Accounts">Accounts</a></span><span id="topbartabright">&nbsp;</span></p></div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<link href="L001/bankuser/theme/rm_navigationbar.css" rel="stylesheet" type="text/css"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="navigationbar">
+	<div id="sidebar">
+
+ 	
+
+ 	
+
+  	
+
+    <span>&nbsp;»&nbsp;<a href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=ns3hfplWIzeLgUlzwZ0SQY0E3SQKCzq%2B%2B0GuBwDc00v1oKDPn%2BMedVRJJdY7IDZ4zoXB5gEnVeXXtUtKKw1grMqbsvCxHnfYSO6papOL9lMGkjqBh5w046FMNRjpXbSw%0D%0Au15G5jXnWZDVy%2FTGHTs1m6vpg2rpygaBVaSOpMEyw8oZ9M%2FY7VzDQSOTLg3bAdtuIyzgHQqlTeB%2Fcb%2BrMu%2FanxyMRXdr60azmnVT2n%2FT1QE%3D" id="Agent Enquire &amp; Update Screen" name="HREF_Agent Enquire &amp; Update Screen" class="clsNode ">Agent Enquire &amp; Update Screen</a><br>&nbsp;»&nbsp;<a href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=ns3hfplWIzeLgUlzwZ0SQY0E3SQKCzq%2B%2B0GuBwDc00v1oKDPn%2BMedVRJJdY7IDZ4zoXB5gEnVeXXtUtKKw1grMqbsvCxHnfYSO6papOL9lMGkjqBh5w046FMNRjpXbSw%0D%0Au15G5jXnWZDVy%2FTGHTs1m3QgXj3lQ%2B18BPEoP2QnMnIZ9M%2FY7VzDQSOTLg3bAdtuVxbLFKvU4bDk9e6IKfX4rByMRXdr60azmnVT2n%2FT1QE%3D" id="Reports" name="HREF_Reports" class="clsNode ">Reports</a><br></span>
+
+</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	<div id="contentarea">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  <div class="section" id="BrdCrumbNImg">
+
+    
+
+      
+
+        
+
+          
+
+            
+
+              <p><a name="skiptomaincontent"></a><span class="bcum">
+<span class="bcum-bold" id="ModTopBar">
+	Accounts: </span><a href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=ns3hfplWIzeLgUlzwZ0SQY0E3SQKCzq%2B%2B0GuBwDc00v1oKDPn%2BMedVRJJdY7IDZ4zoXB5gEnVeXXtUtKKw1grMqbsvCxHnfYSO6papOL9lMGkjqBh5w046FMNRjpXbSw%0D%0Au15G5jXnWZDVy%2FTGHTs1m3QgXj3lQ%2B18BPEoP2QnMnIZ9M%2FY7VzDQSOTLg3bAdtuVxbLFKvU4bDk9e6IKfX4rByMRXdr60azmnVT2n%2FT1QE%3D" id="HREF_BrdCrmb1" name="HREF_BrdCrmb1" class="bcum-Ulined">Reports</a> &gt; Recurring Deposit Installment Report</span><a href="#" id="HREF_print" name="HREF_print" onclick="javascript:window.print();return false;" data-isexcluded="true"><img src="L001/bankuser/images/btn-print.gif" alt="Print page content along with left side navigation and browser details" title="Print page content along with left side navigation and browser details" id="print" border="0"></a>&nbsp;&nbsp;<a href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=NsXzL7gJfhdH5fX8dA6pLB02DcDsOwmfmSPguoZKvVkXZQejqsAmEl9cVY5OA5hzg8yLCwP%2BWro3Bx060JK1B47o4OufoTbHa7k2Fbmuw5eYM%2B3DEFNhw9y1quw0F%2F5s%0D%0A1ZCDe8KdujgcqvKRbvb%2BuSik3HC3I8ZXmSHJ3TBGC1c%3D" id="HREF_printPreview" name="HREFprintPreview" data-isexcluded="true" onclick="window.open(this.href,'','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,width=640,height=660 left=200 top=25,resizable=1'); return false;" target="new "><img src="L001/bankuser/images/btn-printscreen.gif" alt="Print only main page content" title="Print only main page content" id="printpreview" border="0"></a></p>
+
+            
+
+          
+
+        
+
+      
+
+    
+
+  </div>
+
+
+  
+
+  
+
+  
+
+  
+
+  <div class="section" id="PgHeading">
+
+    
+
+      
+
+        
+
+          
+
+            
+
+              
+
+            
+
+            
+
+              
+
+            
+
+          <div id="PgHeading.Ra1">
+<span id="PgHeading.Ra1.C1" class="width10"><img src="L001/bankuser/images/arrow-pageheading.gif?mtime=1503037378000" alt="" title="Arrow Image" id="arrowImage" border="0"></span><div id="PgHeading.Ra1.C2" class="pageheadingcaps"><h1>Recurring Deposit Installment Report</h1></div></div> 
+
+        
+
+      
+
+    
+
+  </div>
+
+
+  <div class="section" id="InfoPanel">
+
+    
+
+      
+
+        <div class="right" id="InfoPanel.Rowset2">
+
+          
+
+            
+
+              
+
+                
+
+                
+
+                
+
+              
+
+            
+
+          
+
+        </div>
+
+
+      
+
+    
+
+  </div>
+
+
+  <div class="section_blackborder" id="SearchPanel">
+
+    
+
+      
+
+    <h2 id="SearchPanel.Header"><span class="whtboldtxt" id="DataWithHeader">Search Criteria</span></h2> 
+
+
+    
+
+      <!--start of subsection--><div id="SearchPanel.SubSection1" class="width100percent">
+
+        <div class="width100percent" id="SearchPanel.Rowset1">
+
+          
+
+            
+
+              
+
+            
+
+            
+
+              
+
+            
+
+          <p id="SearchPanel.Ra1" class="formrow">
+<span id="SearchPanel.Ra1.C1" class="querytextleft"><label for="CustomAgentRDAccountFG.AGENT_ID" id="LabelForControl16275906" class="simpletext">Agent Id:</label></span><span id="SearchPanel.Ra1.C2" class="querytextright"><span class="searchsimpletext" id="HREF_OutputTextbox12662076">MI5152310100002</span></span></p>
+
+
+          
+
+            
+
+              
+
+            
+
+            
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+            
+
+          <p id="SearchPanel.Ra2" class="formrow">
+<span id="SearchPanel.Ra2.C1" class="querytextleft"><label for="CustomAgentRDAccountFG.REPORT_DATE_FROM" id="toDate0" class="simpletext">From Date<span style="direction: rtl; unicode-bidi: embed">(dd-MMM-yyyy)</span>:<span class="redstar">*</span></label></span><span id="SearchPanel.Ra2.C2" class="querytextright"><span class="datelabelColumn"><span class="datelabelColumn_border"><input type="Text" name="CustomAgentRDAccountFG.REPORT_DATE_FROM" id="CustomAgentRDAccountFG.REPORT_DATE_FROM" maxlength="11" value="30-Apr-2021" data-febatype="FEBADate" class="datetextbox type_FEBADate">&nbsp;<a href="#" title="Calendar" name="HREF_CustomAgentRDAccountFG.REPORT_DATE_FROM" id="HREF_CustomAgentRDAccountFG.REPORT_DATE_FROM"><img src="L001/bankuser/images/calender.gif" alt="Calendar" id="CustomAgentRDAccountFG.REPORT_DATE_FROM_Calendar_IMG" border="0" class="absmiddlecalendar"></a>&nbsp;&nbsp;</span></span><span class="simpletext">&nbsp;&nbsp;</span><label for="CustomAgentRDAccountFG.REPORT_DATE_TO" id="actInqToDate" class="simpletextrightDate">To Date<span style="direction: rtl; unicode-bidi: embed">(dd-MMM-yyyy)</span>:<span class="redstar">*</span></label><span class="simpletext">&nbsp;&nbsp;</span><span class="datelabelColumn"><span class="datelabelColumn_border"><input type="Text" name="CustomAgentRDAccountFG.REPORT_DATE_TO" id="CustomAgentRDAccountFG.REPORT_DATE_TO" maxlength="11" value="30-Apr-2021" data-febatype="FEBADate" class="datetextbox type_FEBADate">&nbsp;<a href="#" title="Calendar" name="HREF_CustomAgentRDAccountFG.REPORT_DATE_TO" id="HREF_CustomAgentRDAccountFG.REPORT_DATE_TO"><img src="L001/bankuser/images/calender.gif" alt="Calendar" id="CustomAgentRDAccountFG.REPORT_DATE_TO_Calendar_IMG" border="0" class="absmiddlecalendar"></a>&nbsp;&nbsp;</span></span></span></p>
+
+
+          
+
+            
+
+              
+
+            
+
+            
+
+              
+
+            
+
+          <p id="SearchPanel.Ra3" class="formrow">
+<span id="SearchPanel.Ra3.C1" class="querytextleft"><label for="CustomAgentRDAccountFG.EBANKING_REF_NUMBER" id="RefId" class="simpletext">List Reference No:</label></span><span id="SearchPanel.Ra3.C2" class="querytextright"><span class="labelColumn"><input type="text" name="CustomAgentRDAccountFG.EBANKING_REF_NUMBER" title="Reference ID" "="" class="querytextboxmedium type_FEBAUnboundString" data-febatype="FEBAUnboundString" maxlength="100" id="CustomAgentRDAccountFG.EBANKING_REF_NUMBER" value="C143676384"></span></span></p>
+
+
+          
+
+            
+
+              
+
+            
+
+            
+
+              
+
+            
+
+          <p id="SearchPanel.Ra4" class="formrow">
+<span id="SearchPanel.Ra4.C1" class="querytextleft"><label for="CustomAgentRDAccountFG.INSTALLMENT_STATUS" id="LabelForControl23090499" class="simpletext">Status:</label></span><span id="SearchPanel.Ra4.C2" class="querytextright"><span class="labelColumn_combo"><span class="labelColumn_combo_brdr"> <select name="CustomAgentRDAccountFG.INSTALLMENT_STATUS" class="dropdownexpandalbe" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS" title="Status"> <option value="">Select</option> <option value="FAL">Failed</option> <option value="PEN">Pending</option> <option value="SUC">Success</option></select></span></span></span></p>
+
+
+          
+
+            
+
+              
+
+            
+
+            
+
+              
+
+            
+
+          <p id="SearchPanel.Ra5" class="formrow">
+<span id="SearchPanel.Ra5.C1" class="querytextleft"><label for="CustomAgentRDAccountFG.RD_CHEQUE_NO" id="LabelForControl21209692" class="simpletext">Cheque No.:</label></span><span id="SearchPanel.Ra5.C2" class="querytextright"><span class="labelColumn"><input type="text" name="CustomAgentRDAccountFG.RD_CHEQUE_NO" title="Cheque No." "="" class="querytextboxmedium type_FEBAUnboundString" data-febatype="FEBAUnboundString" maxlength="" id="CustomAgentRDAccountFG.RD_CHEQUE_NO" value=""></span></span></p>
+
+
+        </div>
+
+
+      </div>
+<!--end of subsection-->
+
+    
+
+  </div>
+
+
+  <div class="section" id="NavPanel">
+
+    
+
+      
+
+        <div class="right" id="NavPanel.Rowset1">
+
+          
+
+            
+
+              
+
+            
+
+            
+
+              
+
+            
+
+          <p id="NavPanel.Ra1">
+<span id="NavPanel.Ra1.C1"><span class="HW_formbtn"><input type="Submit" name="Action.SEARCH_INSTALLMENT_DETAILS" class="formbtn_top" id="SearchBtn" value="Search"></span></span><span id="NavPanel.Ra1.C2"><span class="HW_formbtn"><input type="Reset" name="Action.Clear" class="formbtn_last" id="Clear" value="Clear"></span></span></p>
+
+
+        </div>
+
+
+      
+
+    
+
+  </div>
+
+
+  
+
+  
+
+  
+
+  <div class="section" id="ListTable">
+
+    
+
+      
+
+        
+
+          
+
+            
+
+              
+
+                
+
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+              
+
+            
+
+          <div id="ListTable.Ra1" class="listingrow">
+<div id="ListTable.Ra1.C1"><div id="repeatDiv" class="fourlinbrd_100percent_feba listingcol"><h2 class="notopborder listingcol"><span class="tableleft"></span><span class="left tablesimpletext">Search Results</span><span class="right"><span class="tablesimpletext">Displaying 1 - 10 of  13 results</span></span><span class="tableright"></span></h2><div class="tableoverflowwrapper"><table width="100%" summary="Search Results" id="SearchResults">
+<tbody><tr class="listtopbigbg">
+<th class="listboldtxtwithoutline"><span><a id="HREF_SearchResults_Header1" name="HREF_SearchResults_Header1" class="blacklink" title="Click to sort on E-Banking Ref No" href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=NsXzL7gJfhdH5fX8dA6pLB02DcDsOwmfmSPguoZKvVndPSsfNtbPnuoKpq5JeGZlIz7%2FOx8x5VAsMtMSl8CaeP3dQSO32CFPEqLafQ1zPX9zBWycjCKxcslbDxBfUNYv%0D%0AbmM4aIM7xwYLUtwH3O1p2BNiVwRijtoBoodHB6nA6Ao%2BjunaVDfN5vFTtht4660znzQ8qZkRF86Cg9W0u%2FxIoVbhDBqq%2B7YMJ7djamBH1dNCMzRUjsiTXkYhVbq0fwdAJmqQ%0D%0AQSOff3Q83Ow2PfoeGmU6KPZQz2DQjnY2uB85kGqZnVXOcH3Qwhk7YTRZ18O8x8slJl%2FjyfT2B%2FrLzABEz27%2Br0S7LZUrrHVkK502iaoUsRyyFzw%2BfxuvXrEYI%2BKCtQY9OW3H%0D%0AxxStaeq%2BBSFsMA%3D%3D">E-Banking Ref No</a></span></th><th class="listboldtxtwithline"><span><a id="HREF_SearchResults_Header2" name="HREF_SearchResults_Header2" class="blacklink" title="Click to sort on RD Account Number" href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=NsXzL7gJfhdH5fX8dA6pLB02DcDsOwmfmSPguoZKvVndPSsfNtbPnuoKpq5JeGZlIz7%2FOx8x5VAsMtMSl8CaeP3dQSO32CFPEqLafQ1zPX9zBWycjCKxcslbDxBfUNYv%0D%0AbmM4aIM7xwYLUtwH3O1p2BNiVwRijtoBoodHB6nA6Ao%2BjunaVDfN5vFTtht4660znzQ8qZkRF86Cg9W0u%2FxIoVbhDBqq%2B7YMJ7djamBH1dNCMzRUjsiTXkYhVbq0fwdAbSst%0D%0AJwjinw5ewKLstj11T8K5xl%2B%2F76732TPofCA5tuUbmPa1Bl4W%2FDoY5oXuHXvRlKV%2FxbtQVlz9LRVmGIbdiC8kQbElwrCSHPyEIDCZeE5uPwI8grtZzrQ9%2B%2BtMaT%2BfnYSNTGlL%0D%0ABc%2B5LwLzoPnaWQ%3D%3D">RD Account Number</a></span></th><th class="listboldtxtwithline"><span><a id="HREF_SearchResults_Header3" name="HREF_SearchResults_Header3" class="blacklink" title="Click to sort on RD Total Deposit Amount" href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=NsXzL7gJfhdH5fX8dA6pLB02DcDsOwmfmSPguoZKvVndPSsfNtbPnuoKpq5JeGZlIz7%2FOx8x5VAsMtMSl8CaeP3dQSO32CFPEqLafQ1zPX9zBWycjCKxcslbDxBfUNYv%0D%0AbmM4aIM7xwYLUtwH3O1p2BNiVwRijtoBoodHB6nA6Ao%2BjunaVDfN5vFTtht4660znzQ8qZkRF86Cg9W0u%2FxIoVbhDBqq%2B7YMJ7djamBH1dNCMzRUjsiTXkYhVbq0fwdA7zSn%0D%0AvD1cuYPl1fUZbr3cD%2FLMZTLqk3kCWJ%2FGS3uWcZgIDv4hXZReRzkQVwUblA6KawLYw%2FA2rwoowOPd%2FUtKzzmd%2FuUt9JttxPhDbOVeVhyp%2BLe6idSjjdZhgIr%2BS3pq%2Fp6JIb5W%0D%0A33Et686ZYZBP%2F09fJXVwGaVP1fM98j%2BKVss%3D">RD Total Deposit Amount</a></span></th><th class="listboldtxtwithline"><span><span class="tableheader_nosort" title="No of Installments">No of Installments</span></span></th><th class="listboldtxtwithline"><span><span class="tableheader_nosort" title="Rebate">Rebate</span></span></th><th class="listboldtxtwithline"><span><span class="tableheader_nosort" title="Default fee">Default fee</span></span></th><th class="listboldtxtwithline"><span><a id="HREF_SearchResults_Header7" name="HREF_SearchResults_Header7" class="blacklink" title="Click to sort on Status" href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=NsXzL7gJfhdH5fX8dA6pLB02DcDsOwmfmSPguoZKvVndPSsfNtbPnuoKpq5JeGZlIz7%2FOx8x5VAsMtMSl8CaeP3dQSO32CFPEqLafQ1zPX9zBWycjCKxcslbDxBfUNYv%0D%0AbmM4aIM7xwYLUtwH3O1p2BNiVwRijtoBoodHB6nA6Ao%2BjunaVDfN5vFTtht4660znzQ8qZkRF86Cg9W0u%2FxIoVbhDBqq%2B7YMJ7djamBH1dNCMzRUjsiTXkYhVbq0fwdAerbI%0D%0A%2FWZE8PPO2aO5PBuaRg%2FYveQbCqa57h%2FGuUg74fEU7hgyukatCaaJrXIEvLM4ndXHHzm9yU1jmfwQVSWncuW7GdyVsuJCkIh5oHHx%2B%2B6kNSf%2Fd9ueU4amwcEUo12C5AZb1OT5%0D%0AHnHZ%2F0JZxqxmyw%3D%3D">Status</a></span></th><th class="listboldtxtwithline"><span><a id="HREF_SearchResults_Header8" name="HREF_SearchResults_Header8" class="blacklink" title="Click to sort on Last Created Date &amp; Time" href="Finacle;jsessionid=0000rKqetGEjTQP_c6JheWQn-0P:1a35u848h?bwayparam=NsXzL7gJfhdH5fX8dA6pLB02DcDsOwmfmSPguoZKvVndPSsfNtbPnuoKpq5JeGZlIz7%2FOx8x5VAsMtMSl8CaeP3dQSO32CFPEqLafQ1zPX9zBWycjCKxcslbDxBfUNYv%0D%0AbmM4aIM7xwYLUtwH3O1p2BNiVwRijtoBoodHB6nA6Ao%2BjunaVDfN5vFTtht4660znzQ8qZkRF86Cg9W0u%2FxIoVbhDBqq%2B7YMJ7djamBH1dNCMzRUjsiTXkYhVbq0fwdAiRUR%0D%0AyhOUISqvF%2F1nbc3IIdN9p%2Bqmg%2FrJEvl5gnxVXrcMcRSnR109m%2Be9yQLYUMQMwyR9XOKyhmazqUs3MtDcLkc%2BiLMqtkybJGChusmcr7MIpH%2FOJrFJA6xorOE8j0D5cNkIpS6%2B%0D%0AJ1pp6%2F1IUXDEWA%3D%3D">Last Created Date &amp; Time</a></span></th></tr>
+<tr><td colspan="8" class="linesbg"></td></tr><tr id="0" class="listwhiterow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[0]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[0]">020004533897</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[0]">550.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[0]">1</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[0]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[0]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[0]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[0]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr id="1" class="listgreyrow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[1]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[1]">020004536018</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[1]">505.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[1]">1</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[1]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[1]">5.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[1]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[1]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr id="2" class="listwhiterow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[2]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[2]">020009303688</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[2]">2,000.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[2]">1</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[2]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[2]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[2]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[2]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr id="3" class="listgreyrow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[3]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[3]">3463533054</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[3]">550.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[3]">1</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[3]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[3]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[3]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[3]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr id="4" class="listwhiterow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[4]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[4]">3593772507</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[4]">5,150.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[4]">1</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[4]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[4]">150.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[4]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[4]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr id="5" class="listgreyrow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[5]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[5]">3775619149</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[5]">500.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[5]">1</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[5]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[5]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[5]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[5]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr id="6" class="listwhiterow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[6]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[6]">3775626482</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[6]">1,515.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[6]">3</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[6]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[6]">15.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[6]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[6]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr id="7" class="listgreyrow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[7]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[7]">3775644059</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[7]">1,515.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[7]">3</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[7]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[7]">15.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[7]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[7]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr id="8" class="listwhiterow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[8]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[8]">3798136494</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[8]">400.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[8]">1</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[8]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[8]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[8]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[8]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr id="9" class="listgreyrow">
+<td class="listgreyrowtxtwithoutline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.EBANKING_REF_NUMBER_ARRAY[9]">C143676384</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_ACCOUNT_NUMBER_ARRAY[9]">4239065472</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.SAVED_RD_INSTALLMENT_AMOUNT_ARRAY[9]">2,000.00 Cr.</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.NO_OF_INSTALLMENT_ARRAY[9]">1</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_REBATE_ARRAY[9]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="simpletext" id="HREF_CustomAgentRDAccountFG.RD_DEFAUT_FEE_ARRAY[9]">0.00</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="CustomAgentRDAccountFG.INSTALLMENT_STATUS_ARRAY[9]">Success</span></td><td class="listgreyrowtxtleftline">
+<span class="searchsimpletext" id="HREF_CustomAgentRDAccountFG.LAST_CREATE_DATE_ARRAY[9]">30-Apr-2021 10:08:24 AM</span></td></tr>
+<tr><td colspan="8" class="linesbg"></td></tr></tbody></table></div><p class="right"><span class="footerleft"><input type="Submit" class="formbtn_pagi" value="<" alt="Previous" title="Previous" name="Action.RecurringInstallmentReportScreenListing.GOTO_PREV__" id="Action.RecurringInstallmentReportScreenListing.GOTO_PREV__" disabled=""> 
+<span class="paginationtxt1">Page 1 of 2</span> 
+<input type="Submit" class="formbtn_pagi" value=">" alt="Next" title="Next" name="Action.RecurringInstallmentReportScreenListing.GOTO_NEXT__" id="Action.RecurringInstallmentReportScreenListing.GOTO_NEXT__"> 
+<span><label class="paginationtxt1" for="CustomAgentRDAccountFG.RecurringInstallmentReportScreenListing_REQUESTED_PAGE_NUMBER" );="" id="Gotopage">Go to Page:&nbsp;</label><input type="text" maxlength="6" class="paginationtxtbx" onkeypress="return checkSubmit(event)" name="CustomAgentRDAccountFG.RecurringInstallmentReportScreenListing_REQUESTED_PAGE_NUMBER" id="CustomAgentRDAccountFG.RecurringInstallmentReportScreenListing_REQUESTED_PAGE_NUMBER" size="8"> <input type="Submit" class="formbtn_pagi_go" value="Go" alt="Go" name="Action.RecurringInstallmentReportScreenListing.GOTO_PAGE__" id="Action.RecurringInstallmentReportScreenListing.GOTO_PAGE__"> </span> 
+</span></p></div></div></div> 
+
+        
+
+      
+
+    
+
+  </div>
+
+
+  <div class="section" id="NavPanel1">
+
+    
+
+      
+
+        <div class="right" id="NavPanel1.Rowset1">
+
+          
+
+            
+
+              
+
+                
+
+                
+
+                
+
+              
+
+            
+
+          <p id="NavPanel1.Ra1">
+<span id="NavPanel1.Ra1.C1"><label for="AccountSummaryFG.OUTFORMAT" id="Label" title="Download Options Label" class="searchsimpletext">Download Details As:</label><span class="labelColumn_combo_download"><span class="labelColumn_combo_brdr_download"> <select name="CustomAgentRDAccountFG.OUTFORMAT" class="dropdownexpandalbe_download" id="CustomAgentRDAccountFG.OUTFORMAT" title="Select Download Format"> <option value="">Select</option> <option selected="" value="5">PDF file</option> <option value="4">XLS file</option></select></span></span><span class="HW_formbtn"><input type="Submit" name="Action.GENERATE_REPORT" class="formbtn_drpdwn" data-isdownloadbutton="true" id="GENERATE_REPORT" value="OK" title="Download OK" onclick="sendAlert();formResourceAction();"></span></span></p>
+
+
+        </div>
+
+
+      
+
+    
+
+  </div>
+
+
+  <input type="Hidden" name="FG_BUTTONS__" value="NAVIGATE,LOAD_LIST,RecurringInstallmentReportScreenListing.GOTO_PAGE__,RecurringInstallmentReportScreenListing.GOTO_PREV__,RecurringInstallmentReportScreenListing.GOTO_NEXT__" id="allActions">
+
+ <input type="Hidden" name="FORMSGROUP_ID__" value="CustomAgentRDAccountFG" id="FORMSGROUP_ID__">
+
+ <input type="Hidden" name="CustomAgentRDAccountFG.REPORTTITLE" value="RDInstallmentReport" id="CustomAgentRDAccountFG.REPORTTITLE">
+
+
+	
+
+
+
+
+
+
+
+	
+
+	<input type="Hidden" name="counterPartyNickName" value="" id="counterPartyNickName">
+
+	
+
+    <input type="Hidden" name="amountSendToCxps" value="" id="amountSendToCxps">
+
+    
+
+    <input type="Hidden" name="counterPartyTpe" value="" id="counterPartyTpe">
+
+    
+
+    <input type="Hidden" name="freqTyp" value="" id="freqTyp">
+
+    
+
+    <input type="Hidden" name="tranType" value="" id="tranType">
+
+	<input type="Hidden" name="bankId" value="DOP" id="bankId">
+
+	<input type="Hidden" name="cxpsUserId" value="MI5152310100002" id="cxpsUserId">
+
+	<input type="Hidden" name="corpId" value="DOP" id="corpId">
+
+	<input type="Hidden" name="usertype" value="4" id="usertype">
+
+	<input type="Hidden" name="RECEIVED_RESPONSE" value="" id="RECEIVED_RESPONSE">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="CrossSellContainer"></div>
+
+</div>
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+	
+
+		<div id="footerwrapper">
+
+	
+
+	
+
+	<div id="footer" role="contentinfo">
+
+
+
+	
+
+		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- COMMENTED BY HARPREET TO REMOVE ADDITIONAL INFO THROUGHOUT -->
+
+
+
+<div id="additionalinfo">      
+
+      <p class="ImpInfoPanelHeading">Additional Information</p>      
+
+	<p class="ImpInfoPanelText"><br>The bank can use this placeholder
+
+	for displaying:<br>
+
+	&nbsp;-&nbsp;&nbsp;Generic content to the customers (like service
+
+	level agreement,<br>
+
+	&nbsp;&nbsp;&nbsp; general terms &amp; conditions)<br>
+
+	&nbsp;-&nbsp;&nbsp;Function-specific information (like 'Please
+
+	submit all remittance<br>
+
+	&nbsp;&nbsp;&nbsp; requests before 8 PM IST.')</p>
+
+
+
+	<p class="ImpInfoPanelText">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;Customer-specific
+
+	information (like 'You have logged into<br>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; our internet banking service
+
+	as "DOP.MI5152310100002".')<br>
+
+	<br>
+
+	</p>       
+
+</div> 
+
+      
+
+      
+
+	
+
+
+<div id="footerlogo">
+			<p><img src="L001/bankuser/images/custom/IndiaPostLogoAdmin.jpg" border="0" alt="" title=""></p>
+		
+			<span class="right"><a href="#" name="HREF_Site_map" id="Sitemapfooter" class="bluelink" title="View Site Map">Site Map</a> | <a href="#" name="HREF_Privacy" id="PrivacyPolicyfooter" class="bluelink" title="View Privacy Policy">Privacy Policy</a> | <a href="#" name="HREF_TermsConditions" id="TermsCondionsfooter" title="View Terms &amp; Conditions" class="bluelink">Terms &amp; Conditions</a> | <a href="#" name="HREF_Disclaimer" id="Disclaimerfooter" title="View Disclaimer" class="bluelink">Disclaimer</a></span>
+		
+		<p></p></div>
+
+
+	
+
+	</div>
+
+	
+
+	   </div>
+
+	
+
+	<div id="footer-line" class="footer_line"><img src="L001/bankuser/images/trans.gif"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <input type="Hidden" name="ENABLE_CXPS" value="Y" id="ENABLE_CXPS">
+
+ <input type="Hidden" name="CXPS_ENABLE_JS_FLOW" value="N" id="CXPS_ENABLE_JS_FLOW">
+
+ 
+
+
+
+
+<input type="Hidden" name="CustomAgentRDAccountFG.LISTING_NAMES__" value="RecurringInstallmentReportScreenListing" id="CustomAgentRDAccountFG.LISTING_NAMES__"><input type="Hidden" name="JS_ENABLED_FLAG" value="Y" id="JS_ENABLED_FLAG"><input type="Hidden" name="CHECKBOX_NAMES__" value="" id="CHECKBOX_NAMES__"><input type="Hidden" name="Requestid" value="3" id="Requestid"><script type="text/javascript">feba.js.common.checkJS("JS_ENABLED_FLAG");</script><input type="Hidden" name="CustomAgentRDAccountFG.__COLLAPSIBLE_IDS__" value="|" id="COLLAPSIBLE_IDS"><script type="text/javascript">var imageAltPlus = 'Plus';var imageAltMinus = 'Minus';var imageTitleExpand = 'Expand';var imageTitleCollapse = 'Collapse';var imagePath = 'L001/bankuser/images';initHideSeek('null');</script><script type="text/javascript">jsVarForControlIds="CustomAgentRDAccountFG.REPORT_DATE_FROM=From Date:@@CustomAgentRDAccountFG.AccountSummaryFG.OUTFORMAT=Download Details As:@@CustomAgentRDAccountFG.REPORT_DATE_TO=To Date:@@CustomAgentRDAccountFG.RD_CHEQUE_NO=Cheque No.:@@CustomAgentRDAccountFG.AGENT_ID=Agent Id:@@CustomAgentRDAccountFG.EBANKING_REF_NUMBER=List Reference No:@@CustomAgentRDAccountFG.INSTALLMENT_STATUS=Status:@@"</script><script language="javascript" type="text/javascript">new calendar1('HREF_CustomAgentRDAccountFG.REPORT_DATE_FROM',document.getElementById('CustomAgentRDAccountFG.REPORT_DATE_FROM'),'dd-MMM-yyyy' ,'L001/bankuser/Common/',true, false);</script><script language="javascript" type="text/javascript">new calendar1('HREF_CustomAgentRDAccountFG.REPORT_DATE_TO',document.getElementById('CustomAgentRDAccountFG.REPORT_DATE_TO'),'dd-MMM-yyyy' ,'L001/bankuser/Common/',true, false);</script><script type="text/javascript">jQuery(function(){RedrawAllTrees();jsonObj={"TypesCatalogue":{"FEBADate": {"DFT":"GR|dd-MMM-yyyy",
+"PTY":"DAT"
+},"FEBADate": {"DFT":"GR|dd-MMM-yyyy",
+"PTY":"DAT"
+},"FEBAUnboundString" : {"LEN":"-1",
+"JUS":"LEFT_JUSTIFIED",
+"CST":"MIXED_CASE",
+"CNT":"null",
+"SEC":"false",
+"BCC":"false",
+"PTY": "STR"
+},"FEBAUnboundString" : {"LEN":"-1",
+"JUS":"LEFT_JUSTIFIED",
+"CST":"MIXED_CASE",
+"CNT":"null",
+"SEC":"false",
+"BCC":"false",
+"PTY": "STR"
+}}};init(jsonObj,null,jsVarForControlIds);
+feba.js.common.blockOnButtonClicks("loadingImage");
+feba.js.common.blockOnHyperlinkClicks("loadingImage");
+feba.js.common.runPageCustomFunction("RDInstallmentReport_onload");});</script><img src="L001/bankuser/images/widget-loading.gif" id="loadingImage" style="display:none;"><input type="hidden" value="{&quot;VERSION&quot;:&quot;1.0&quot;,&quot;MFP&quot;:{&quot;System&quot;:{&quot;Platform&quot;:&quot;Win32&quot;,&quot;Language&quot;:&quot;en-IN&quot;,&quot;Timezone&quot;:-330,&quot;Fonts&quot;:&quot;&quot;},&quot;Screen&quot;:{&quot;FullHeight&quot;:864,&quot;AvlHeight&quot;:824,&quot;FullWidth&quot;:1536,&quot;AvlWidth&quot;:1536,&quot;BufferDepth&quot;:&quot;&quot;,&quot;ColorDepth&quot;:24,&quot;PixelDepth&quot;:24,&quot;DeviceXDPI&quot;:&quot;&quot;,&quot;DeviceYDPI&quot;:&quot;&quot;,&quot;FontSmoothing&quot;:&quot;&quot;,&quot;UpdateInterval&quot;:&quot;&quot;},&quot;Browser&quot;:{&quot;UserAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36&quot;,&quot;Vendor&quot;:&quot;Google Inc.&quot;,&quot;VendorSubID&quot;:&quot;&quot;,&quot;BuildID&quot;:&quot;&quot;,&quot;CookieEnabled&quot;:true},&quot;Camera&quot;:&quot;&quot;,&quot;Microphone&quot;:&quot;&quot;},&quot;MAC&quot;:&quot;&quot;,&quot;ExternalIP&quot;:&quot;172.16.21.57&quot;,&quot;InternalIP&quot;:&quot;&quot;,&quot;MESC&quot;:&quot;mi=2;cd=200;id=50;mesc=990605;ldi=1000;mesc=627743;ldi=1004&quot;,&quot;DESC&quot;:&quot;&quot;}" id="deviceDNA" name="deviceDNA"><input type="hidden" value="4750" id="executionTime" name="executionTime"><input type="hidden" value="" id="desc" name="desc"><input type="hidden" value="mi=2;cd=200;id=50;mesc=990605;ldi=1000;mesc=627743;ldi=1004" id="mesc" name="mesc"><input type="hidden" value="" id="dnaError" name="dnaError"><input type="hidden" value="2" id="mescIterationCount" name="mescIterationCount"><input type="hidden" value="true" id="isDNADone" name="isDNADone"><input type="hidden" value="" id="arcotFlashCookie" name="arcotFlashCookie"><input type="hidden" value="null" id="DEVICE_ID" name="DEVICE_ID"><input type="hidden" value="DEVICEID.HTTP" id="DEVICE_TYPE" name="DEVICE_TYPE"><input type="hidden" value="{&quot;VERSION&quot;:&quot;1.0&quot;,&quot;MFP&quot;:{&quot;System&quot;:{&quot;Platform&quot;:&quot;Win32&quot;,&quot;Language&quot;:&quot;en-IN&quot;,&quot;Timezone&quot;:-330,&quot;Fonts&quot;:&quot;&quot;},&quot;Screen&quot;:{&quot;FullHeight&quot;:864,&quot;AvlHeight&quot;:824,&quot;FullWidth&quot;:1536,&quot;AvlWidth&quot;:1536,&quot;BufferDepth&quot;:&quot;&quot;,&quot;ColorDepth&quot;:24,&quot;PixelDepth&quot;:24,&quot;DeviceXDPI&quot;:&quot;&quot;,&quot;DeviceYDPI&quot;:&quot;&quot;,&quot;FontSmoothing&quot;:&quot;&quot;,&quot;UpdateInterval&quot;:&quot;&quot;},&quot;Browser&quot;:{&quot;UserAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36&quot;,&quot;Vendor&quot;:&quot;Google Inc.&quot;,&quot;VendorSubID&quot;:&quot;&quot;,&quot;BuildID&quot;:&quot;&quot;,&quot;CookieEnabled&quot;:true},&quot;Camera&quot;:&quot;&quot;,&quot;Microphone&quot;:&quot;&quot;},&quot;MAC&quot;:&quot;&quot;,&quot;ExternalIP&quot;:&quot;172.16.21.57&quot;,&quot;InternalIP&quot;:&quot;&quot;,&quot;MESC&quot;:&quot;mi=2;cd=200;id=50;mesc=990605;ldi=1000;mesc=627743;ldi=1004&quot;,&quot;DESC&quot;:&quot;&quot;}" id="MACHINE_FINGER_PRINT" name="MACHINE_FINGER_PRINT"></form>
+
+
+
+</body></html>
